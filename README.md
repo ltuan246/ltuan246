@@ -10,6 +10,8 @@ I enjoy keeping things clear and easy, both when I sharing ideas or work with ot
 
 Starting right matters to me because it cuts down on time and stress down the road. :rainbow:
 
+Right now, I'm diving into fun parts of .NET. If you enjoy what I do, please consider giving my work a :star:! 
+
 <!--
 **ltuan246/ltuan246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
